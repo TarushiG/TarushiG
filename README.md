@@ -1,7 +1,4 @@
 <div id="badges">
-  <a href="https://www.linkedin.com/in/tarushi-gera-66007a243/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <h2 align="center">
   Hey there, I'm Tarushi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -18,6 +15,11 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 - :seedling: Exploring Data Structures & Algorithms.
 
 - :zap: In my free time, I listen to music & read articles on Space Technology.
+  
+- :mailbox: How to reach me:
+  <a href="https://www.linkedin.com/in/tarushi-gera-66007a243/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,4 +36,3 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 https://github-readme-streak-stats.herokuapp.com/?user=TarushiG
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarushiG&theme=dark&background=000000)](https://git.io/streak-stats)
-
