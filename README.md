@@ -34,4 +34,5 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=TarushiG
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarushiG&theme=dark&background=000000)](https://git.io/streak-stats)
