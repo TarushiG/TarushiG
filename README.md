@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ue3ciay6j10022gbo6nce2keaem6a3sckarsi1rg&rid=giphy.gif&ct=g">
 </div>
----
 
 ### :woman_technologist: About Me : 
 I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
