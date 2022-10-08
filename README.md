@@ -15,7 +15,8 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :zap: In my free time, I listen to music & read articles on Space Technology.
   
-- :mailbox: How to reach me:
+- :mailbox: How to reach me: tgera_be21@thapar.edu
+
   <a href="https://www.linkedin.com/in/tarushi-gera-66007a243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
