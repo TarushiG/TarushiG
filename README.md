@@ -33,7 +33,7 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title= "Linux" alt="Linux" height="40" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title= "jQuery" alt="jQuery" height="40" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title= "Nodejs" alt="Nodejs" height="40" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/ubuntu" title= "Ubuntu" alt="Ubuntu" height="40" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title= "Ubuntu" alt="Ubuntu" height="40" width="40"/>&nbsp;
  ---
  
  ![Github stats](https://github-readme-stats.vercel.app/api?username=TarushiG&theme=highcontrast&show_icons=true&count_private=true)
