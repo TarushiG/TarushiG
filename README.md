@@ -11,7 +11,7 @@
 I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently learning Web & App Development.
 
-- :seedling: Exploring Data Structures & Algorithms. Mission: 100 Days of Python.
+- :seedling: Exploring Astro & Blockchain. Mission: 100 Days of Python.
 
 - :zap: In my free time, I listen to music & read articles on Space Technology.
   
