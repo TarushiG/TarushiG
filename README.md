@@ -10,6 +10,8 @@
 ### :woman_technologist: About Me : 
 I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently learning Web & App Development.
+  
+- :bulb: Looking to collaborate on Frontend development Projects.  
 
 - :seedling: Exploring Astro & Blockchain. Mission: 100 Days of Python.
 
