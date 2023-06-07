@@ -11,9 +11,9 @@
 I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently working on a lot of stuff!
   
-- :bulb: Looking to collaborate on Web & App development Projects.  
+- :bulb: Looking to collaborate on Web & App Development Projects.  
 
-- :seedling: Exploring Blockchain and Docker.
+- :seedling: Exploring Blockchain, DevOps and Docker.
 
 - :zap: In my free time, I listen to music & read articles on Space Technology.
   
