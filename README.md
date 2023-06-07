@@ -13,7 +13,7 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
 - :bulb: Looking to collaborate on Web & App Development Projects.  
 
-- :seedling: Exploring Blockchain, Full-Stack tools and Docker.
+- :seedling: Exploring Blockchain, Full-Stack tools and Firebase.
 
 - :zap: In my free time, I listen to music & read articles on Space Technology.
   
