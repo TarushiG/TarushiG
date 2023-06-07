@@ -9,11 +9,11 @@
 
 ### :woman_technologist: About Me : 
 I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently learning Web & App Development.
+- :telescope: I’m currently working on a lot of stuff!
   
-- :bulb: Looking to collaborate on Frontend development Projects.  
+- :bulb: Looking to collaborate on web & app development Projects.  
 
-- :seedling: Exploring Astro & Blockchain. Mission: 100 Days of Python.
+- :seedling: Exploring Blockchain and Docker.
 
 - :zap: In my free time, I listen to music & read articles on Space Technology.
   
