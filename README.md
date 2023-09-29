@@ -19,7 +19,7 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
 - :mailbox: How to reach me: tarushigera@gmail.com
 
-  <a href="https://www.linkedin.com/in/tarushi-gera-66007a243/">
+  <a href="https://www.linkedin.com/in/tarushi-g-66007a243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 ---
@@ -38,6 +38,8 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title= "Ubuntu" alt="Ubuntu" height="40" width="40"/>&nbsp;
 
  ---
+ 
+ ### :trophy: Trophies :
  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=TarushiG&theme=discord)
  
  ---
