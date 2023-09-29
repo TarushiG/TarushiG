@@ -17,7 +17,7 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :zap: In my free time, I listen to music & read articles on Space Technology.
   
-- :mailbox: How to reach me: tgera_be21@thapar.edu
+- :mailbox: How to reach me: tarushigera@gmail.com
 
   <a href="https://www.linkedin.com/in/tarushi-gera-66007a243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -36,9 +36,18 @@ I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title= "jQuery" alt="jQuery" height="40" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title= "Nodejs" alt="Nodejs" height="40" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title= "Ubuntu" alt="Ubuntu" height="40" width="40"/>&nbsp;
+
  ---
+ ![Github Trophy](https://github-profile-trophy.vercel.app/?username=TarushiG&theme=discord)
  
- ![Github stats](https://github-readme-stats.vercel.app/api?username=TarushiG&theme=highcontrast&show_icons=true&count_private=true)
+ ---
+
+ [![Tarushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TarushiG)](https://github.com/tarushig/github-readme-activity-graph)
+ 
+ ---
+
+ [![Tarushi Gera StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19447331)](https://stackoverflow.com/users/19447331/tarushi)
+ 
  ---
  
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
