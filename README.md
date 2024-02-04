@@ -8,7 +8,7 @@
 </div>
 
 ### :woman_technologist: About Me : 
-I am a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m currently working on a lot of stuff!
   
 - :bulb: Looking to collaborate on Web & App Development Projects.  
