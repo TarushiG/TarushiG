@@ -8,14 +8,14 @@
 </div>
 
 ### :woman_technologist: About Me : 
-I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m currently working on a lot of stuff!
+I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is:
+- :telescope: Working on a lot of stuff!
   
 - :bulb: Looking to collaborate on Web & App Development Projects.  
 
 - :seedling: Exploring Blockchain, Full-Stack tools and Firebase.
 
-- :zap: In my free time, I listen to music & read articles on Space Technology.
+- :zap: Listening to music & reading articles on Space Technology in her free time.
   
 - :mailbox: How to reach me: tarushigera@gmail.com
 
