@@ -15,13 +15,16 @@ I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Blockchain, Full-Stack tools and Firebase.
 
-- :zap: Listening to music & reading articles on Space Technology in her free time.
-  
+- :zap: Listening to music & reading articles on Space Technology in her free time. **I have also started writing on Medium!**
 - :mailbox: How to reach me: tarushigera@gmail.com
 
   <a href="https://www.linkedin.com/in/tarushi-g-66007a243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://medium.com/@tarushigera">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -41,15 +44,37 @@ I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
  ### :trophy: Trophies :
  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=TarushiG&theme=discord)
- 
- ---
 
- [![Tarushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TarushiG)](https://github.com/tarushig/github-readme-activity-graph)
- 
- ---
+---
 
- [![Tarushi Gera StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19447331)](https://stackoverflow.com/users/19447331/tarushi)
- 
- ---
- 
- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+### 🖋️ Read my latest blogs on Medium!: 
+
+<div align="center">
+  <a href="https://medium.com/@tarushigera">
+    <img src="https://github-readme-medium.vercel.app/?username=tarushigera" alt="Tarushi Gera Medium" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/TarushiG/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarushiG" alt="Tarushi's github activity graph"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://stackoverflow.com/users/19447331/tarushi">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=19447331" alt="Tarushi Gera StackOverflow"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/shinokada">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada" alt="Top Languages Card"/>
+  </a>
+</div>
