@@ -15,7 +15,7 @@ I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Blockchain, Full-Stack tools and Firebase.
 
-- :zap: Listening to music & reading articles on Space Technology in her free time. **I have also started writing on Medium!**
+- :zap: Listening to music & reading articles on Space Technology in her free time. 
 - :mailbox: How to reach me: tarushigera@gmail.com
 
   <a href="https://www.linkedin.com/in/tarushi-g-66007a243/">
