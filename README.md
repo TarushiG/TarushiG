@@ -47,16 +47,6 @@ I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🖋️ Read my latest blogs on Medium!: 
-
-<div align="center">
-  <a href="https://medium.com/@tarushigera">
-    <img src="https://github-readme-medium.vercel.app/?username=tarushigera" alt="Tarushi Gera Medium" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <a href="https://github.com/TarushiG/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarushiG" alt="Tarushi's github activity graph"/>
