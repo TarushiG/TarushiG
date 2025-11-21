@@ -47,12 +47,8 @@ I'm a **Software Engineer** passionate about **DevOps, Cloud Computing, and AI/M
 ---
 
 ### 📈 GitHub Highlights  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TarushiG&theme=discord" alt="GitHub Trophy"/>
-  <br/><br/>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarushiG&theme=react-dark" alt="Activity Graph"/>
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarushiG&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
