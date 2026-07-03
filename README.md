@@ -26,13 +26,13 @@
 🎓 **June 2025 Graduate**  
 🏆 **Dean's Commendation**  
 🎓 **Bachelor (Hons.) in Software Engineering**  
-📊 **Minor in Data Science**
+📊 **Experienced Developer**
 
 I enjoy creating scalable systems, building automation pipelines, and exploring innovative tools in cloud and full-stack development.
 
 - 🌱 Currently exploring **AI-driven automation** and **cloud infrastructure**
-- 💡 Interested in **Web & App Development** collaborations
-- ☁️ Passionate about **DevOps, Cloud Computing, and AI/ML**
+- 💡 Interested in **Deep Learning** collaborations
+- ☁️ Passionate about **Automation, Cloud Computing, and AI/ML**
 - 🎧 I love music, stargazing, and reading about **space technology**
 - 📫 Reach me at **tarushigera@gmail.com**
 
