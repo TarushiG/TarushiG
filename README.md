@@ -1,36 +1,49 @@
-<div id="badges" align="center">
-  <h2>
-    Hey there, I'm Tarushi!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
+<div align="center">
 
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ue3ciay6j10022gbo6nce2keaem6a3sckarsi1rg&rid=giphy.gif&ct=g" width="600"/>
+<h1>
+  Hey there, I'm Tarushi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving Hand">
+</h1>
 
-  <p>
-    <a href="https://www.linkedin.com/in/tarushi-g-66007a243/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:tarushigera@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://medium.com/@tarushigera">
-      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
-    </a>
-  </p>
+<img
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29xM212cHIyamc3MWZuOWNmbGd4MGpxNWpkYnQwaDIxYWppbGlvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JjKFOWV6kBuCTI8lxj/giphy.gif"
+  width="500"
+  alt="Taylor Swift"
+/>
+
 </div>
 
 ---
 
-### 👩‍💻 About Me  
-I'm a **Software Engineer** passionate about **DevOps, Cloud Computing, and AI/ML**.  
-🎓 June 2025 Graduate (Dean's Commendation) from **Bachelor (Hons.) in Software Engineering** (Minor in Data Science).  
+<h2 align="center">About Me</h2>
 
-✨ I enjoy creating scalable systems, building automation pipelines, and exploring innovative tools in cloud and full-stack development.  
+<table>
+<tr>
+<td width="60%">
 
-- 🌱 Currently exploring **AI-driven automation** and **cloud infrastructure**  
-- 💡 Interested in **Web & App Development** collaborations  
-- 🎧 I love music, stargazing, and reading about **space technology**  
-- 📫 Reach me at: **tarushigera@gmail.com**
+### 👩‍💻 Software Engineer | Cloud | DevOps | AI/ML
+
+🎓 **June 2025 Graduate**  
+🏆 **Dean's Commendation**  
+🎓 **Bachelor (Hons.) in Software Engineering**  
+📊 **Minor in Data Science**
+
+I enjoy creating scalable systems, building automation pipelines, and exploring innovative tools in cloud and full-stack development.
+
+- 🌱 Currently exploring **AI-driven automation** and **cloud infrastructure**
+- 💡 Interested in **Web & App Development** collaborations
+- ☁️ Passionate about **DevOps, Cloud Computing, and AI/ML**
+- 🎧 I love music, stargazing, and reading about **space technology**
+- 📫 Reach me at **tarushigera@gmail.com**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,15 +62,14 @@ I'm a **Software Engineer** passionate about **DevOps, Cloud Computing, and AI/M
 ### 📈 GitHub Highlights  
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarushiG&theme=react-dark" alt="Activity Graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarushiG&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
 
-### 🌐 Quote
-> ✨ “Code. Automate. Innovate.”  
-> ⚡ *Always building, always curious.*
+<h2 align="center">💻 Developer Console</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=%24+whoami;%3E+Tarushi+Gera+-+Software+Engineer;%24+skills+--cloud;%3E+AWS+Azure+GCP+Docker+Kubernetes;%24+build+--future;%3E+AI+Automation+%7C+DevOps+%7C+Scalable+Systems;%24+status;%3E+Always+Building+Always+Curious" />
+
 </div>
