@@ -23,11 +23,6 @@
 
 ### 👩‍💻 Software Engineer | Cloud | DevOps | AI/ML
 
-🎓 **June 2025 Graduate**  
-🏆 **Dean's Commendation**  
-🎓 **Bachelor (Hons.) in Software Engineering**  
-📊 **Experienced Developer**
-
 I enjoy creating scalable systems, building automation pipelines, and exploring innovative tools in cloud and full-stack development.
 
 - 🌱 Currently exploring **AI-driven automation** and **cloud infrastructure**
